@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4DFEB1D7-EA71-4D4C-971C-647432D3A740</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MakeSounds</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF77D169E312EC60D74F1AE7C5B517422109B192</key>
+		<string>https://github.com/MakeSchool/MakeSounds.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MakeSounds.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF77D169E312EC60D74F1AE7C5B517422109B192</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MakeSchool/MakeSounds.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF77D169E312EC60D74F1AE7C5B517422109B192</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF77D169E312EC60D74F1AE7C5B517422109B192</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MakeSounds</string>
+		</dict>
+	</array>
+</dict>
+</plist>
